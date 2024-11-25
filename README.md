@@ -1,5 +1,5 @@
-# CSCI 202: P.A. M05.1: Using Binary Search
+# CSCI 202: P.A. M05.2: Using Binary Search
 
-## Assignmnet Description
+## Assignment Description
 
 ## My Methods
